@@ -2,4 +2,5 @@ Gitの練習
 Gitの基本操作
 ・git add
 ・git commit
-・
+・git rm
+・複数処理
