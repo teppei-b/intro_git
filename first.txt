@@ -4,3 +4,4 @@ Gitの基本操作
 ・git commit
 ・git rm
 ・git status
+・git diff
